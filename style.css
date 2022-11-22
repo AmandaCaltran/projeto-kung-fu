@@ -55,7 +55,7 @@ header{
 }
 
 header > h1{
-    color: white;
+    color: yellow;
     font-family: var(--fonte-titulo);
     margin-bottom: 0px;
     font-size: 4em;
